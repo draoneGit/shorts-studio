@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Shorts AI Studio</title><link rel="stylesheet" href="style.css"></head><body>
+<h1>Shorts AI Studio</h1>
+<p class="small">Desktop app for Windows · Windows용 데스크톱 프로그램</p>
+<nav><a href="./">Home</a><a href="privacy.html">Privacy Policy (개인정보처리방침)</a><a href="terms.html">Terms of Service (이용약관)</a></nav>
+<h2>What it does</h2>
+<p>Shorts AI Studio is a desktop application that helps a creator turn cooking videos into vertical (9:16) short videos with Korean narration and subtitles. The user edits the video on their own computer and, when finished, can send the completed video to their own YouTube or TikTok account.</p>
+<p class="ko">Shorts AI Studio는 요리 영상을 한국어 나레이션과 자막이 들어간 세로(9:16) 쇼츠 영상으로 만드는 데스크톱 프로그램입니다. 사용자가 자신의 컴퓨터에서 영상을 편집하고, 완성한 영상을 본인의 YouTube 또는 TikTok 계정으로 보낼 수 있습니다.</p>
+<h2>How TikTok is used</h2>
+<ul>
+<li>The user signs in with TikTok (Login Kit) from the desktop app. Scopes: <code>user.info.basic</code>, <code>video.upload</code>.</li>
+<li>The finished video is uploaded to the user's TikTok inbox as a draft. The user reviews and posts it in the TikTok app.</li>
+<li>Access tokens are stored only on the user's own computer.</li>
+</ul>
+<ul class="ko">
+<li>사용자가 프로그램에서 TikTok으로 로그인합니다(Login Kit). 권한: <code>user.info.basic</code>, <code>video.upload</code></li>
+<li>완성 영상은 사용자의 TikTok 받은 편지함에 초안으로 올라가며, 사용자가 TikTok 앱에서 확인 후 게시합니다.</li>
+<li>로그인 토큰은 사용자 컴퓨터에만 저장됩니다.</li>
+</ul>
+<footer>Contact / 문의: <a href="mailto:draone@naver.com">YOUR_EMAIL@example.com</a> · Last updated / 최종 수정: 2026-11-27</footer>
+</body></html>
